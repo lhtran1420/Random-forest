@@ -1,0 +1,4 @@
+In the question 1,2,3,4,5, we will run the file name random_forest_wine and random_forest_house_vote
+In the question extra 1, we will run file name extra_1_house_vote for the house vote dataset and extra_1_wine for the
+wine dataset
+In the question extra 2, we will run the file extra_2. In this exercise, I use gini criterion to split dataset
